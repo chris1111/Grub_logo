@@ -1,0 +1,5 @@
+title: Grub_logo
+description: Grub_logo Iconset to use with bootloader
+github:
+  repository_url: https://github.com/chris1111/Grub_logo
+remote_theme: chris1111/cayman-dark
